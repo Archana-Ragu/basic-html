@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+input,
+textarea {
+  width: 100%;
+}
+
+label {
+  display: block;
+}
+
+select {
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+}
