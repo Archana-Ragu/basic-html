@@ -7,3 +7,4 @@
    - used in front end development
 ## ABOUT
 The basic scripting language used by web browser to render pages on the World Wide Web.
+**the markup languages are:**
