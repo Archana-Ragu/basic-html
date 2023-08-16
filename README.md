@@ -3,7 +3,7 @@
 </div>  
 
 ### Founder `Tim Berners Lee`
-`Hypertext Markup Language`
+`Hyper-text Markup Language`
 >  html language
    - this  is not an  compiler language
    - html is an `markup languqge` not a programming one
