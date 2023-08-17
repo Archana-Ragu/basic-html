@@ -2,7 +2,7 @@
  <h1>Basic-Html</h1>
 </div>  
 
-### Founder `Tim Berners Lee
+### Founder `Tim Berners Lee`
  *HTML* - `Hyper-text Markup Language`
 >  html language
    - this  is not an  compiler language
