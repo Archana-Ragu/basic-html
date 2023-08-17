@@ -10,7 +10,7 @@
    - Also called as `Scripting Language`
    - html is parsed and interpreted by the web browser
    - used in front end development
-## ABOUT
+### ABOUT
 The basic scripting language used by web browser to render pages on the World Wide Web.
 
 The **markup languages are:**
