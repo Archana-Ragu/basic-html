@@ -6,7 +6,7 @@
  *HTML* - `Hyper-text Markup Language`
 >  html language
    - this  is not an  compiler language
-   - html is an `markup languqge` not a programming one
+   - html is an `Markup Languqge` not a programming one
    - Also called as `Scripting Language`
    - html is parsed and interpreted by the web browser
    - used in front end development
