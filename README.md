@@ -8,7 +8,7 @@
    - this  is not an  compiler language
    - html is an `Markup Languqge` not a programming one
    - Also called as `Scripting Language`
-   - html  parsed and interpreted by the web browser
+   - html is parsed and interpreted by the web browser
    - used in front end development
 ### ABOUT
 The basic scripting language used by web browser to render pages on the World Wide Web.
