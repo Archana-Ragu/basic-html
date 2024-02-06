@@ -4,7 +4,7 @@
 
 ### Founder `Tim Berners Lee`
  *HTML* - `Hyper-text Markup Language`
->  html language
+>  html languag
    - this  is not an  compiler language
    - html is an `Markup Languqge` not a programming one
    - Also called as `Scripting Language`
